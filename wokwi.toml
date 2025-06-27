@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+elf = "build/GKM_AD.elf"
+firmware = "build/GKM_AD.uf2"
